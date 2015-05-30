@@ -1,0 +1,1 @@
+Este programa creado por Juan Quemada para el MOOC en MiriadaX "Desarrollo de servicios en la nube con HTML5, JavaScript y Node.js" obtiene un número aleatorio entre 0 y 1 y nos indica si es mayor o menor que 0,5.
